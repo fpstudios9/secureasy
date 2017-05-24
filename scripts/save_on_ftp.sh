@@ -1,0 +1,1 @@
+scp <file to upload> flowpfrgbx@ftp.cluster017.ovh.net:/www/secureasy/upload/
