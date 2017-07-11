@@ -1,7 +1,7 @@
 #!/bin/sh
-HOST='ftp.cluster017.ovh.net'
-USER='flowpfrgbx'
-PASSWD='vsfuQHfrsfjU'
+HOST=''
+USER=''
+PASSWD=''
 WAY='/www/secureasy/upload/'
 FILE='test.txt'
 
